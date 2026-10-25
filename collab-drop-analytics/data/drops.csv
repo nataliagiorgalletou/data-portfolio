@@ -1,0 +1,13 @@
+drop_id,talent_id,talent_name,talent_tier,followers,is_repeat_partner,season,launch_date,has_launch_event
+D01,T01,Talent A,mid,230030,0,SS,2025-02-16,0
+D02,T02,Talent B,micro,57620,0,SS,2025-03-16,0
+D03,T03,Talent C,macro,1805067,1,SS,2025-04-16,1
+D04,T04,Talent D,mid,214080,0,SS,2025-05-16,0
+D05,T05,Talent E,micro,108547,1,SS,2025-06-16,0
+D06,T06,Talent F,mid,290601,0,SS,2025-07-16,1
+D07,T07,Talent G,macro,1812382,0,AW,2025-08-16,1
+D08,T08,Talent H,micro,113643,0,AW,2025-09-16,0
+D09,T09,Talent I,mid,287526,1,AW,2025-10-16,0
+D10,T10,Talent J,macro,755461,1,AW,2025-11-16,1
+D11,T11,Talent K,mid,571474,0,AW,2025-12-16,0
+D12,T12,Talent L,micro,100229,0,AW,2026-01-16,0

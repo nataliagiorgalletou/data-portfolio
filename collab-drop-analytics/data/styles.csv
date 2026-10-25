@@ -1,0 +1,159 @@
+style_id,drop_id,style_name,category,color,retail_price_sek,units_received,delivery_date
+S0001,D01,Waistcoat,Tailoring,Grey,1049,560,2025-02-08
+S0002,D01,Trench Coat,Outerwear,Cream,1699,643,2025-02-26
+S0003,D01,Wide Leg Trousers,Tailoring,Red,849,701,2025-02-02
+S0004,D01,Denim Jacket,Denim,Cream,799,302,2025-02-03
+S0005,D01,Slip Dress,Dresses,Navy,849,733,2025-02-11
+S0006,D01,Shoulder Bag,Accessories,Green,549,584,2025-02-13
+S0007,D01,Wrap Dress,Dresses,Red,749,819,2025-03-07
+S0008,D01,Wool Blend Cardigan,Knitwear,Brown,599,684,2025-02-04
+S0009,D01,Shoulder Bag,Accessories,Black,549,846,2025-02-13
+S0010,D01,Ribbed Top,Tops,Brown,249,575,2025-01-29
+S0011,D02,Denim Skirt,Denim,Red,599,638,2025-03-11
+S0012,D02,Puffer Jacket,Outerwear,Grey,1049,257,2025-02-26
+S0013,D02,Turtleneck,Knitwear,Red,499,378,2025-03-09
+S0014,D02,Wool Blend Cardigan,Knitwear,Red,599,385,2025-03-29
+S0015,D02,Knit Vest,Knitwear,Red,699,251,2025-03-29
+S0016,D02,Wrap Dress,Dresses,Cream,949,225,2025-03-10
+S0017,D02,Corset Top,Tops,Cream,399,566,2025-03-12
+S0018,D02,Knit Vest,Knitwear,Brown,549,763,2025-02-27
+S0019,D02,Wool-Blend Coat,Outerwear,Brown,1099,679,2025-04-05
+S0020,D02,Denim Skirt,Denim,Beige,499,489,2025-03-30
+S0021,D02,Wool Blend Cardigan,Knitwear,Brown,749,597,2025-02-25
+S0022,D02,Faux Fur Jacket,Outerwear,Beige,949,320,2025-03-10
+S0023,D02,Satin Midi Dress,Dresses,Black,799,497,2025-03-29
+S0024,D02,Corset Top,Tops,Black,299,329,2025-02-27
+S0025,D02,Waistcoat,Tailoring,Beige,899,530,2025-03-04
+S0026,D02,Wool Blend Coat,Outerwear,Beige,999,447,2025-03-04
+S0027,D02,Basic Tee,Tops,Black,449,742,2025-03-07
+S0028,D03,Basic Tee,Tops,Grey,499,355,2025-03-30
+S0029,D03,Waistcoat,Tailoring,Brown,849,796,2025-04-26
+S0030,D03,Leather Belt,Accessories,Green,349,612,2025-04-08
+S0031,D03,Shirt Dress,Dresses,Beige,699,224,2025-04-27
+S0032,D03,Puffer Jacket,Outerwear,Red,1399,694,2025-04-04
+S0033,D03,Corset Top,Tops,Grey,449,706,2025-04-09
+S0034,D03,Puffer Jacket,Outerwear,Navy,1099,236,2025-04-02
+S0035,D03,Knit Vest,Knitwear,Black,599,266,2025-03-31
+S0036,D03,Wrap Dress,Dresses,Green,899,398,2025-04-06
+S0037,D03,Wool Blend Cardigan,Knitwear,Cream,699,748,2025-05-06
+S0038,D03,Draped Blouse,Tops,Brown,349,609,2025-03-28
+S0039,D04,Draped Blouse,Tops,Brown,449,164,2025-05-01
+S0040,D04,Shirt Dress,Dresses,Red,899,478,2025-05-01
+S0041,D04,Ribbed Top,Tops,Green,399,785,2025-05-10
+S0042,D04,Slip Dress,Dresses,Black,699,850,2025-05-12
+S0043,D04,Poplin Shirt,Tops,Grey,449,493,2025-05-10
+S0044,D04,Poplin Shirt,Tops,Navy,449,221,2025-05-01
+S0045,D04,Oversized Blazer,Tailoring,Beige,999,535,2025-05-04
+S0046,D04,Knit Maxi Dress,Dresses,Black,949,511,2025-05-31
+S0047,D04,Wide Leg Trousers,Tailoring,Cream,649,885,2025-04-29
+S0048,D04,Pleated Trousers,Tailoring,Navy,949,387,2025-05-06
+S0049,D04,Cable Knit Sweater,Knitwear,Cream,749,785,2025-05-01
+S0050,D04,Shirt Dress,Dresses,Beige,749,193,2025-05-09
+S0051,D04,Draped Blouse,Tops,Brown,349,656,2025-05-02
+S0052,D04,Denim Skirt,Denim,Beige,599,305,2025-05-27
+S0053,D05,Faux Fur Jacket,Outerwear,Beige,999,618,2025-06-28
+S0054,D05,Silk Scarf,Accessories,Red,249,862,2025-05-28
+S0055,D05,Silk Scarf,Accessories,Red,249,320,2025-06-27
+S0056,D05,Leather Belt,Accessories,Navy,349,274,2025-06-07
+S0057,D05,Denim Jacket,Denim,Beige,499,173,2025-06-28
+S0058,D05,Shirt Dress,Dresses,Brown,899,228,2025-06-11
+S0059,D05,Wide Leg Trousers,Tailoring,Navy,699,663,2025-06-12
+S0060,D05,Knit Vest,Knitwear,Beige,699,333,2025-06-03
+S0061,D05,Faux Fur Jacket,Outerwear,Cream,1649,347,2025-06-03
+S0062,D05,Knit Maxi Dress,Dresses,Brown,599,898,2025-06-05
+S0063,D05,Leather Belt,Accessories,Green,249,540,2025-05-29
+S0064,D05,Wool Blend Cardigan,Knitwear,Beige,749,662,2025-06-07
+S0065,D05,Waistcoat,Tailoring,Green,949,812,2025-07-07
+S0066,D05,Puffer Jacket,Outerwear,Black,1649,220,2025-06-02
+S0067,D05,Trench Coat,Outerwear,Brown,1449,589,2025-07-03
+S0068,D05,Silk Scarf,Accessories,Black,299,242,2025-06-03
+S0069,D05,Poplin Shirt,Tops,Cream,249,682,2025-06-04
+S0070,D06,Wrap Dress,Dresses,Brown,899,298,2025-07-01
+S0071,D06,Denim Jacket,Denim,Beige,549,876,2025-06-29
+S0072,D06,Denim Jacket,Denim,Navy,549,338,2025-07-04
+S0073,D06,Straight Leg Jeans,Denim,Black,549,784,2025-07-04
+S0074,D06,Denim Skirt,Denim,Red,699,600,2025-06-28
+S0075,D06,Leather Belt,Accessories,Grey,499,616,2025-06-29
+S0076,D06,Corset Top,Tops,Red,349,523,2025-08-04
+S0077,D06,Shirt Dress,Dresses,Red,999,197,2025-07-12
+S0078,D06,Draped Blouse,Tops,Navy,399,854,2025-07-09
+S0079,D06,Corset Top,Tops,Black,299,721,2025-08-04
+S0080,D06,Basic Tee,Tops,Grey,349,867,2025-07-06
+S0081,D06,Satin Midi Dress,Dresses,Red,649,401,2025-06-29
+S0082,D06,Corset Top,Tops,Red,349,803,2025-07-29
+S0083,D07,Wide Leg Trousers,Tailoring,Brown,599,452,2025-08-06
+S0084,D07,Shirt Dress,Dresses,Grey,699,391,2025-07-28
+S0085,D07,Turtleneck,Knitwear,Navy,749,355,2025-08-07
+S0086,D07,Poplin Shirt,Tops,Grey,499,460,2025-08-10
+S0087,D07,Wool Blend Coat,Outerwear,Red,1099,563,2025-08-07
+S0088,D07,Wrap Dress,Dresses,Brown,699,277,2025-07-30
+S0089,D07,Knit Maxi Dress,Dresses,Red,649,413,2025-08-12
+S0090,D07,Shirt Dress,Dresses,Brown,949,402,2025-08-05
+S0091,D07,Shirt Dress,Dresses,Navy,799,743,2025-08-08
+S0092,D07,Wide Leg Trousers,Tailoring,Red,1049,458,2025-07-31
+S0093,D07,Wide Leg Trousers,Tailoring,Navy,649,294,2025-07-29
+S0094,D08,Slip Dress,Dresses,Cream,849,740,2025-09-08
+S0095,D08,Knit Vest,Knitwear,Navy,549,268,2025-09-03
+S0096,D08,Waistcoat,Tailoring,Navy,799,163,2025-10-02
+S0097,D08,Denim Jacket,Denim,Navy,649,744,2025-09-11
+S0098,D08,Basic Tee,Tops,Red,299,780,2025-08-28
+S0099,D08,Leather Belt,Accessories,Green,399,372,2025-09-01
+S0100,D08,Silk Scarf,Accessories,Green,599,405,2025-10-04
+S0101,D08,Basic Tee,Tops,Cream,399,755,2025-10-05
+S0102,D08,Waistcoat,Tailoring,Grey,599,433,2025-09-09
+S0103,D08,Pleated Trousers,Tailoring,Cream,999,246,2025-09-03
+S0104,D09,Ribbed Top,Tops,Brown,499,526,2025-10-03
+S0105,D09,Satin Midi Dress,Dresses,Grey,949,855,2025-10-02
+S0106,D09,Faux Fur Jacket,Outerwear,Cream,1649,175,2025-09-27
+S0107,D09,Oversized Blazer,Tailoring,Grey,599,513,2025-10-06
+S0108,D09,Pleated Trousers,Tailoring,Brown,599,426,2025-10-08
+S0109,D09,Oversized Blazer,Tailoring,Brown,949,607,2025-09-29
+S0110,D09,Knit Vest,Knitwear,Navy,549,533,2025-10-11
+S0111,D09,Wide Leg Trousers,Tailoring,Cream,949,833,2025-09-29
+S0112,D09,Trench Coat,Outerwear,Brown,1049,745,2025-10-06
+S0113,D09,Wide Leg Trousers,Tailoring,Beige,1049,187,2025-10-09
+S0114,D09,Wrap Dress,Dresses,Grey,949,409,2025-11-03
+S0115,D10,Cable Knit Sweater,Knitwear,Red,499,237,2025-11-02
+S0116,D10,Trench Coat,Outerwear,Black,1049,431,2025-11-12
+S0117,D10,Wool Blend Coat,Outerwear,Green,1399,571,2025-12-06
+S0118,D10,Shirt Dress,Dresses,Grey,649,394,2025-11-11
+S0119,D10,Denim Skirt,Denim,Cream,549,748,2025-11-03
+S0120,D10,Wool Blend Cardigan,Knitwear,Green,699,171,2025-10-30
+S0121,D10,Denim Jacket,Denim,Beige,699,879,2025-10-30
+S0122,D10,Basic Tee,Tops,Green,349,845,2025-11-30
+S0123,D10,Straight Leg Jeans,Denim,Cream,599,174,2025-11-02
+S0124,D10,Basic Tee,Tops,Navy,249,360,2025-11-08
+S0125,D10,Basic Tee,Tops,Red,449,192,2025-11-08
+S0126,D10,Satin Midi Dress,Dresses,Brown,649,537,2025-10-29
+S0127,D10,Wool Blend Cardigan,Knitwear,Cream,449,478,2025-10-28
+S0128,D10,Cable Knit Sweater,Knitwear,Cream,749,648,2025-11-03
+S0129,D10,Pleated Trousers,Tailoring,Grey,749,764,2025-11-27
+S0130,D10,Pleated Trousers,Tailoring,Cream,649,245,2025-10-29
+S0131,D10,Trench Coat,Outerwear,Red,1349,755,2025-12-04
+S0132,D10,Basic Tee,Tops,Black,249,853,2025-11-02
+S0133,D11,Shirt Dress,Dresses,Grey,749,315,2025-12-05
+S0134,D11,Knit Vest,Knitwear,Brown,699,378,2025-11-27
+S0135,D11,Ribbed Top,Tops,Grey,349,899,2025-12-02
+S0136,D11,Shirt Dress,Dresses,Navy,899,679,2025-12-10
+S0137,D11,Wide Leg Trousers,Tailoring,Black,849,810,2025-11-28
+S0138,D11,Oversized Blazer,Tailoring,Brown,849,630,2025-12-09
+S0139,D11,Denim Skirt,Denim,Cream,599,747,2025-12-12
+S0140,D11,Ribbed Top,Tops,Brown,299,860,2025-12-13
+S0141,D11,Knit Vest,Knitwear,Red,599,865,2025-12-06
+S0142,D11,Wrap Dress,Dresses,Navy,749,534,2025-12-11
+S0143,D11,Pleated Trousers,Tailoring,Black,899,665,2025-12-02
+S0144,D11,Turtleneck,Knitwear,Cream,649,277,2025-11-27
+S0145,D11,Ribbed Top,Tops,Green,249,571,2025-11-29
+S0146,D12,Wide Leg Trousers,Tailoring,Green,699,382,2026-01-07
+S0147,D12,Leather Belt,Accessories,Beige,299,191,2026-01-07
+S0148,D12,Trench Coat,Outerwear,Beige,1499,290,2026-01-08
+S0149,D12,Shoulder Bag,Accessories,Navy,449,618,2026-01-06
+S0150,D12,Wrap Dress,Dresses,Green,749,433,2026-02-05
+S0151,D12,Cable Knit Sweater,Knitwear,Brown,649,596,2026-01-02
+S0152,D12,Draped Blouse,Tops,Grey,449,880,2026-01-09
+S0153,D12,Shirt Dress,Dresses,Black,649,328,2026-01-27
+S0154,D12,Turtleneck,Knitwear,Grey,599,432,2026-01-08
+S0155,D12,Faux Fur Jacket,Outerwear,Red,1099,407,2026-01-13
+S0156,D12,Pleated Trousers,Tailoring,Cream,1049,338,2026-01-09
+S0157,D12,Straight Leg Jeans,Denim,Brown,549,619,2026-01-24
+S0158,D12,Faux Fur Jacket,Outerwear,Navy,1549,789,2026-01-04
